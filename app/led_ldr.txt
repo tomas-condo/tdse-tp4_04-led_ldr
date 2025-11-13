@@ -1,0 +1,7 @@
+1. Al medir la resistencia del LDR mientras esta encendido con el multimetro 
+pudimos determinar y medir que tiene una resistencia de 0 ohm en la oscuridad y 
+2.9 kohm cuando lo iluminamos.
+
+A partir del circuito realizado tenemos que el LED oscila en instensidad,
+debido a esto los valores del LDR dados varian ya que estos estan enfrentados. 
+Se puede ver en las curvas hechas en el excel.
